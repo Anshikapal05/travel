@@ -38,5 +38,4 @@ The Travel Activity Planner is a web-based platform designed to simplify the pro
 - Anshika Pal(https://github.com/Anshikapal05)
 - Sneha Verma(https://github.com/SNEHAVERMA22)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
